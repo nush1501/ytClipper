@@ -1,0 +1,32 @@
+# Node.js dependencies (backend)
+node_modules/
+
+# IDE-specific files (JetBrains IDEs like WebStorm, IntelliJ)
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Environment variables (if you're using them)
+.env
+
+# OS-specific files (e.g., Mac, Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore package-lock.json if you prefer not to commit it
+package-lock.json
+
+# Ignore build artifacts (if any)
+client/build/
+
+# Ignore .env file if used for sensitive environment configurations
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore Yarn logs if you're using Yarn
+yarn-debug.log*
+yarn-error.log*

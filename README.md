@@ -20,5 +20,5 @@ A web application to download YouTube Shorts videos in multiple formats (MP4, We
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/youtube-shorts-downloader.git
-cd youtube-shorts-downloader
+git clone https://github.com/nush1501/ytClipper.git
+cd ytClipper
